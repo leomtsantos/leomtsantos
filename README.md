@@ -22,5 +22,5 @@ Desde a minha infância, sou apaixonado por tecnologia e sempre busquei aprender
 
 ## Como entrar em contato 📫
 
-- **Email:** [leonardo.moutinho2004@gmail.com](mailto:leonardo.moutinho2004@gmail.com)
+- **Email:** [leonardomoutinhosantos@gmail.com](mailto:leonardomoutinhosantos@gmail.com)
 - **LinkedIn:** [linkedin.com/in/leomtsantos](https://www.linkedin.com/in/leomtsantos)
