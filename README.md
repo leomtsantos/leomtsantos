@@ -1,91 +1,79 @@
 # Olá, eu sou o Léo 👋
 
-Profissional de Dados com experiência em **Business Intelligence, análise de dados, automação de processos e transformação de dados**, atualmente direcionando minha carreira para **Engenharia de Dados**.
+Profissional de Dados com mais de 2 anos de experiência em **Business Intelligence, análise, transformação e automação de dados**, atualmente direcionando minha carreira para **Engenharia de Dados**.
 
-Ao longo da minha experiência profissional, trabalhei com tratamento, transformação, modelagem e análise de dados, desenvolvimento de dashboards e indicadores, automação de rotinas e suporte à tomada de decisão.
+Minha experiência profissional me deu contato com diferentes etapas do trabalho com dados — desde tratamento, transformação e validação até modelagem, construção de indicadores e disponibilização das informações para análise e tomada de decisão.
 
-Atualmente, estou aprofundando meus conhecimentos em Engenharia de Dados através de estudos e projetos práticos envolvendo **Python, SQL, PostgreSQL, dbt, Docker, ETL/ELT e construção de pipelines de dados**.
+Hoje, estou levando essa experiência para o desenvolvimento de projetos de Engenharia de Dados, trabalhando com **Python, SQL, PostgreSQL, dbt, Docker, Airflow, APIs e ETL/ELT**.
 
-🎓 Formado em **Tecnologia em Segurança da Informação pelo Senac São Paulo**.
+Gosto de entender não apenas como uma ferramenta funciona, mas **por que ela está sendo utilizada e qual problema o dado precisa resolver**.
 
-🎯 Busco oportunidades em **Engenharia de Dados**, onde possa combinar minha experiência com dados e conhecimento de negócio com o desenvolvimento de pipelines, integrações e soluções de dados.
-
-## 🛠️ Tecnologias e ferramentas
-
-**Dados e programação**
-- Python
-- SQL
-- pandas
-
-**Banco de dados e transformação**
-- PostgreSQL
-- dbt
-- ETL / ELT
-- Modelagem de dados
-
-**BI e análise**
-- Power BI
-- Power Query
-- Power Pivot
-- Excel
-
-**Ferramentas**
-- Docker
-- Git
-- GitHub
+🎓 Tecnólogo em **Segurança da Informação pelo Senac São Paulo**.
 
 ## 🚀 Projetos em destaque
 
 ### Sales Data Pipeline
 
-Pipeline local de dados de vendas desenvolvido para praticar conceitos fundamentais de Engenharia de Dados.
+Pipeline de dados de vendas desenvolvido para aplicar conceitos fundamentais de Engenharia de Dados.
 
-**Fluxo:**
+**Arquitetura:**
 
 `CSV → Python → PostgreSQL → dbt → Analytics`
 
 O projeto inclui:
 
-- ingestão de arquivos CSV com Python e pandas;
-- armazenamento dos dados em PostgreSQL executado com Docker;
-- cargas idempotentes para evitar duplicações;
-- modelagem em camadas Raw, Staging e Mart;
-- transformações SQL com dbt;
-- criação de uma tabela fato de vendas;
-- testes de qualidade de dados;
-- consultas analíticas de receita e vendas.
+* ingestão de arquivos CSV com Python e pandas;
+* armazenamento em PostgreSQL;
+* ambiente executado com Docker;
+* cargas idempotentes para evitar duplicações;
+* modelagem em camadas Raw, Staging e Mart;
+* transformações SQL utilizando dbt;
+* criação de tabela fato de vendas;
+* testes de qualidade de dados;
+* consultas analíticas sobre os dados processados.
 
-**Tecnologias:** Python · pandas · PostgreSQL · SQL · dbt · Docker · Git
+**Stack:** Python • pandas • SQL • PostgreSQL • dbt • Docker • Git
 
 [Ver projeto](https://github.com/leomtsantos/sales-data-pipeline)
 
-## 📚 Atualmente estudando
+---
 
-- Engenharia de Dados
-- Python para dados
-- SQL
-- ETL / ELT
-- Modelagem de dados
-- Construção de pipelines
-- Bancos de dados
-- dbt
-- Docker
+### Weather Data Pipeline 🚧
 
-## 🎯 Próximos passos
+Pipeline de dados meteorológicos desenvolvido para aplicar conceitos de **orquestração e automação de pipelines com Apache Airflow**.
 
-Meu foco atual é continuar evoluindo em Engenharia de Dados através de projetos práticos, aprofundando conhecimentos em:
+**Arquitetura planejada:**
 
-- construção de pipelines de dados;
-- ETL e ELT;
-- modelagem de dados;
-- qualidade e testes de dados;
-- bancos de dados relacionais;
-- processamento e transformação de dados;
-- ferramentas modernas do ecossistema de Engenharia de Dados.
+`Weather API → Airflow → Python → PostgreSQL`
 
-Conforme evoluir, novos projetos serão adicionados a este perfil.
+O projeto trabalha com ingestão de dados via API, organização do pipeline através de DAGs, validação e persistência dos dados em PostgreSQL, além de conceitos como scheduling, retries, logs e tratamento de falhas.
+
+**Stack:** Python • Apache Airflow • PostgreSQL • API • Docker
+
+> 🚧 Projeto em desenvolvimento.
+
+## 🛠️ Tecnologias
+
+**Engenharia e processamento de dados**
+Python • SQL • pandas • ETL/ELT • APIs • Apache Airflow
+
+**Banco de dados e transformação**
+PostgreSQL • dbt • Modelagem de Dados • Qualidade de Dados
+
+**Infraestrutura e ferramentas**
+Docker • Git • GitHub • Linux
+
+**BI e Analytics**
+Power BI • Power Query • Power Pivot • Excel
+
+## 💡 Um pouco sobre minha trajetória
+
+Antes de direcionar meu foco para Engenharia de Dados, trabalhei profissionalmente com BI e análise de dados em uma operação de Trade Marketing para a NIVEA (Beiersdorf).
+
+Essa experiência me permitiu trabalhar com dados operacionais, transformação, modelagem, qualidade, automação, indicadores e necessidades reais de negócio.
+
+Hoje busco levar essa visão para Engenharia de Dados, entendendo o dado não apenas no momento da análise, mas também nos processos responsáveis por sua ingestão, transformação, armazenamento e disponibilização.
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/leonardo-moutinho-santos-9363aa430/)
-- [GitHub](https://github.com/leomtsantos)
+[LinkedIn](https://www.linkedin.com/in/leonardo-moutinho-santos-9363aa430/)
