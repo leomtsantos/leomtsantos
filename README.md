@@ -4,7 +4,7 @@ Profissional de Dados com mais de 2 anos de experiência em **Business Intellige
 
 Minha experiência profissional me deu contato com diferentes etapas do trabalho com dados — desde tratamento, transformação e validação até modelagem, construção de indicadores e disponibilização das informações para análise e tomada de decisão.
 
-Hoje, estou levando essa experiência para o desenvolvimento de projetos de Engenharia de Dados, trabalhando com **Python, SQL, PostgreSQL, dbt, Docker, Airflow, APIs e ETL/ELT**.
+Hoje, estou levando essa experiência para o desenvolvimento de projetos de Engenharia de Dados, trabalhando com **Python, SQL, PostgreSQL, dbt, Docker e conceitos de ETL/ELT, modelagem e qualidade de dados**.
 
 Gosto de entender não apenas como uma ferramenta funciona, mas **por que ela está sendo utilizada e qual problema o dado precisa resolver**.
 
@@ -36,26 +36,10 @@ O projeto inclui:
 
 [Ver projeto](https://github.com/leomtsantos/sales-data-pipeline)
 
----
-
-### Weather Data Pipeline 🚧
-
-Pipeline de dados meteorológicos desenvolvido para aplicar conceitos de **orquestração e automação de pipelines com Apache Airflow**.
-
-**Arquitetura planejada:**
-
-`Weather API → Airflow → Python → PostgreSQL`
-
-O projeto trabalha com ingestão de dados via API, organização do pipeline através de DAGs, validação e persistência dos dados em PostgreSQL, além de conceitos como scheduling, retries, logs e tratamento de falhas.
-
-**Stack:** Python • Apache Airflow • PostgreSQL • API • Docker
-
-> 🚧 Projeto em desenvolvimento.
-
 ## 🛠️ Tecnologias
 
 **Engenharia e processamento de dados**
-Python • SQL • pandas • ETL/ELT • APIs • Apache Airflow
+Python • SQL • pandas • ETL/ELT
 
 **Banco de dados e transformação**
 PostgreSQL • dbt • Modelagem de Dados • Qualidade de Dados
