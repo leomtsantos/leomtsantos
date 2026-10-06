@@ -2,13 +2,38 @@
 
 Profissional de Dados com mais de 2 anos de experiência em **Business Intelligence, análise, transformação e automação de dados**, atualmente direcionando minha carreira para **Engenharia de Dados**.
 
-Minha experiência profissional envolve tratamento e validação de dados, modelagem, construção de indicadores e automação de processos. Hoje, aplico essa base no desenvolvimento de pipelines e arquiteturas de dados, trabalhando com **Python, SQL, PostgreSQL, dbt, Apache Airflow, Docker, PySpark e AWS**.
+Minha experiência profissional envolve tratamento e validação de dados, modelagem, construção de indicadores e automação de processos. Hoje, venho aprofundando essa base com projetos de Engenharia de Dados envolvendo **Python, SQL, PostgreSQL, dbt, Apache Airflow, Docker, PySpark e AWS**.
 
-Busco entender não apenas como uma ferramenta funciona, mas por que ela está sendo utilizada e qual problema o dado precisa resolver.
+Gosto de entender não apenas como uma ferramenta funciona, mas por que ela está sendo utilizada e qual problema o dado precisa resolver.
 
 🎓 Tecnólogo em **Segurança da Informação pelo Senac São Paulo**.
 
 ## 🚀 Projetos em destaque
+
+### Retail Execution Analytics
+
+Projeto em Power BI inspirado na minha experiência profissional com BI e dados em uma operação de Trade Marketing da NIVEA/Beiersdorf.
+
+Como os dados e materiais utilizados profissionalmente são confidenciais, desenvolvi uma nova solução do zero utilizando **dados 100% sintéticos**. O projeto simula o acompanhamento da execução de materiais promocionais e pontos extras no varejo, comparando o planejado com o executado e permitindo investigar gaps, causas e pontos de maior criticidade.
+
+**Fluxo analítico:**  
+`Planejado → Executado → Gap → Causa → Localização do problema`
+
+**Destaques:**
+
+- modelagem dimensional com tabelas fato e dimensão;
+- preparação e tratamento dos dados com Power Query;
+- construção de indicadores e regras de negócio em DAX;
+- análise de execução, gaps, causas, tarefas, regionais, canais e ambientes de varejo;
+- medidas dinâmicas para rankings, comparação temporal e formatação condicional;
+- projeto disponibilizado em PBIX e PBIP/PBIR;
+- dados sintéticos criados exclusivamente para o portfólio.
+
+**Stack:** Power BI • Power Query • DAX • Modelagem Dimensional • PBIP/PBIR
+
+[Ver projeto](https://github.com/leomtsantos/retail-execution-analytics)
+
+---
 
 ### Simple AWS Data Lake
 
@@ -93,15 +118,19 @@ PostgreSQL • dbt • Modelagem de Dados • Qualidade de Dados
 Docker • Docker Compose • Git • GitHub • Linux
 
 **BI e Analytics**  
-Power BI • Power Query • Power Pivot • Excel
+Power BI • Power Query • Power Pivot • DAX • Excel
 
 ## 💡 Experiência e trajetória
 
 Atuei profissionalmente com BI e análise de dados em uma operação de Trade Marketing para a NIVEA (Beiersdorf), trabalhando com dados operacionais, transformação, modelagem, qualidade, automação e construção de indicadores.
 
-Essa experiência me deu uma visão prática sobre as necessidades do negócio e a importância de disponibilizar dados confiáveis para análise e tomada de decisão.
+Essa experiência me deu uma visão prática das necessidades do negócio e da importância de disponibilizar dados confiáveis para análise e tomada de decisão.
 
-Atualmente, estou ampliando essa experiência para **Engenharia de Dados**, com foco em ingestão, validação, transformação, armazenamento e disponibilização de dados, além do desenvolvimento de projetos envolvendo **orquestração de pipelines, processamento com PySpark e arquiteturas de dados na AWS**.
+O projeto **Retail Execution Analytics** nasceu justamente dessa vivência: utilizei o conhecimento de domínio adquirido no trabalho para construir um novo case de portfólio, sem utilizar dados ou materiais confidenciais da empresa.
+
+Atualmente, estou ampliando essa experiência para **Engenharia de Dados**, com foco em ingestão, validação, transformação, armazenamento e disponibilização de dados.
+
+Os projetos acima mostram essa evolução, passando por pipelines com PostgreSQL e dbt, orquestração com Airflow, processamento com PySpark, arquitetura de Data Lake na AWS e a camada analítica em Power BI.
 
 ## 📫 Contato
 
